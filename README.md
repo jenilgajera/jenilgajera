@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jenil Gajera</h1>
 
 <p align="center">
-  <img src="planning (3).png" alt="Banner Image" width="100%" />
+  <img src="banner.png" alt="Banner Image" width="100%" />
 </p>
 
 <h3 align="center">Web (MERN Stack) & Mobile (Flutter) Developer || Turning Ideas into Reality || Flutter | Firebase || PHP || C# || HTML | SCSS | JS || Tech Enthusiast</h3>
